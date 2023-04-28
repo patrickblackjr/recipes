@@ -1,0 +1,4 @@
+baseURL = 'https://recipes.patrickblack.dev'
+languageCode = 'en-us'
+title = "Patrick's Recipes"
+theme = 'ananke'
