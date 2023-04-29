@@ -1,4 +1,6 @@
 baseURL = 'https://recipes.patrickblack.dev'
 languageCode = 'en-us'
 title = "Patrick's Recipes"
-theme = 'ananke'
+
+[[module.imports]]
+path = "github.com/CaiJimmy/hugo-theme-stack/v3"
