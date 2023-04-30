@@ -82,7 +82,7 @@ recipectl import <url>`,
 		if err != nil {
 			panic(err)
 		}
-		file, err := os.Create(cwd + "/content/recipes/" + slug + ".md")
+		file, err := os.Create(cwd + "/" + slug + ".md")
 		if err != nil {
 			panic(err)
 		}
