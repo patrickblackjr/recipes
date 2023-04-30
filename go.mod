@@ -9,7 +9,6 @@ require (
 )
 
 require (
-	github.com/CaiJimmy/hugo-theme-stack/v3 v3.16.0 // indirect
 	github.com/PuerkitoBio/goquery v1.8.0 // indirect
 	github.com/andybalholm/cascadia v1.3.1 // indirect
 	github.com/gosimple/unidecode v1.0.1 // indirect
@@ -18,5 +17,5 @@ require (
 	github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35 // indirect
 	github.com/senseyeio/duration v0.0.0-20180430131211-7c2a214ada46 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/net v0.0.0-20210916014120-12bc252f5db8 // indirect
+	golang.org/x/net v0.7.0 // indirect
 )
